@@ -1,0 +1,31 @@
+我 ta
+你 shyi
+他 ha
+她 haa
+牠 kla
+# 复数加pyu
+我们 ta pyu
+你们 shyi pyu
+他们 ha pyu
+她们 haa pyu
+牠们 kla pyu
+是 sayi
+否 sahyi
+所有（all） tyi myu
+母 mama
+父 papa
+动物 ya shla
+其他 ra nyi
+多 pei tla
+少 pai tla
+一些 shla kla
+这 kyi
+那 kla
+这里 kyi pwu
+那里 kla pwu
+谁 shyu tyi
+什么 kyu nyi
+哪 pyu tyi
+何时 yau tyi
+如何 myu tyi
+为什么 kyu shyi
