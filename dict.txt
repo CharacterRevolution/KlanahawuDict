@@ -29,3 +29,49 @@
 何时 yau tyi
 如何 myu tyi
 为什么 kyu shyi
+大 nei
+长 tei
+宽 tou
+厚 hou
+重 saei
+小 nai
+短 tai
+窄 tru
+薄 hru
+轻 saai
+男 mou
+女 mru
+人 yau
+孩 nai yau
+妻 shyi mru
+夫 shyi mou
+鱼 kai shyi
+鸟 pwa pai
+狗 nyi pwu
+虫 nla tala
+蛇 tei nla fala
+你好 ya kyu
+# 数字
+1 tyi
+2 nru
+3 shwu
+4 kwu
+5 vawu
+6 fayu
+7 nyi
+8 pou
+9 shla
+10 pama
+11 nyina
+12 hala
+13 fawu
+14 va
+15 yai
+0 ryi
+# pow(16,0)如上
+# pow(16,1) + shyi
+# pow(16,2) + pei
+# pow(16,3) + kei
+# pow(16,4) + vai
+# pow(16,5) + tla
+# 数字无阴阳性
