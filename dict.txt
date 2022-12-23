@@ -75,3 +75,33 @@
 # pow(16,4) + vai
 # pow(16,5) + tla
 # 数字无阴阳性
+树 shwa
+森 ka pyi
+枝 haa fayi
+果 tyi ka
+种(seed) hei va
+叶 saru hai
+根 vai pla
+树皮 shwu saai
+花 hei tla ka
+草 varuya
+蝇 hyu rla
+肤 shyi saai
+肉 ra
+血 shwu fala
+骨 yai
+脂 vala nyu
+蛋 hai saru
+角 暂未定义
+尾 hyu shyi
+羽 tai hata
+毛 hai ta
+头 rwu
+耳 shyu myi kyi
+眼 nai shla
+鼻 pyu tou
+口 hou kwu
+牙 shyi shla
+舌 va hwu sa
+指甲 vala shwu ka
+脚 pyi shwu pa
